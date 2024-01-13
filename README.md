@@ -1,4 +1,5 @@
-# React + Vite
+# Landing Page Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Страница портфолио на React + Vite (Framer Motion, SCSS, emailjs)
 
+[Ссылка на проект](https://roobyroid.github.io/animated-portfolio/)
